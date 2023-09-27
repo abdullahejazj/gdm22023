@@ -1,0 +1,6 @@
+/Users/abdullahejaz/RiderProjects/class4/class4/bin/Debug/class4.exe
+/Users/abdullahejaz/RiderProjects/class4/class4/bin/Debug/class4.pdb
+/Users/abdullahejaz/RiderProjects/class4/class4/obj/Debug/class4.csproj.AssemblyReference.cache
+/Users/abdullahejaz/RiderProjects/class4/class4/obj/Debug/class4.csproj.CoreCompileInputs.cache
+/Users/abdullahejaz/RiderProjects/class4/class4/obj/Debug/class4.exe
+/Users/abdullahejaz/RiderProjects/class4/class4/obj/Debug/class4.pdb
